@@ -5,5 +5,5 @@
 * The second division displays my __name__, **slack Id** and **email** in TextViews.
 * The third division contains a **scrollable list** of my likes, dislikes and hobbies.
 * The bottom division contains 3 evenly spaced random icons.
-* This is the output of the task. ![Output](/likes.png)
-* And this is the screen after the ListView has been scrolled. ![Output2](/hobbies.png)
+* This is the output of the task. ![Output](/hobbies.png)
+* And this is the screen after the ListView has been scrolled. ![Output2](/likes.png)
